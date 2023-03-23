@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">SportNews</string>
+
+    <string name="news_title">News Title</string>
+    <string name="news_content">News paragraph</string>
+    <string name="news_date">News Date</string>
+    <string name="about">About</string>
+
+    <string name="profile_name">Akhmadheta Hafid Prasetyawan</string>
+    <string name="profile_email">akhmadheta097@gmail.com</string>
+    <string name="share">Share</string>
+
+    <string-array name="data_title">
+        <item>Real Madrid 0-1 Barcelona: Eder Militao own goal decides ill-tempered Copa del Rey semi-final first leg</item>
+        <item>Erik ten Hag makes Wout Weghorst admission as Fred praises Manchester United teammate</item>
+        <item>Christian Pulisic sends Enzo Fernandez and Ben Chilwell Chelsea message amid Leeds injury update</item>
+        <item>Rafael Leao makes major AC Milan admission in response to Chelsea transfer links</item>
+        <item>Chelsea duo Mason Mount and Christian Pulisic tipped for transfers to Real Madrid or Barcelona</item>
+        <item>Zinedine Zidane to Chelsea latest: Luis Enrique battle, France job decision, Boehly desire</item>
+        <item>Chelsea news and transfers LIVE: Mount exit, Gvardiol deal, Zidane latest, Leeds team news</item>
+        <item>Jose Mourinho to Chelsea latest: Roma exit clause, dream return, Todd Boehly contact</item>
+        <item>Lewis Hamilton says Mercedes have mountain to climb ahead of Formula 1 2023 opening Bahrain GP</item>
+        <item>Gary Neville: Time right for Harry Kane to leave Tottenham and Man Utd are his most realistic option this summer</item>
+    </string-array>
+    <string-array name="data_date">
+        <item>2 March 2023 22:54</item>
+        <item>2 March 2023 21:00</item>
+        <item>2 March 2023 17:30</item>
+        <item>1 March 2023 22:00</item>
+        <item>1 March 2023 21:00</item>
+        <item>1 March 2023 16:30</item>
+        <item>28 February 2023 21:30</item>
+        <item>28 February 2023 17:30</item>
+        <item>27 February 2023 22:30</item>
+        <item>27 February 2023 11:00</item>
+    </string-array>
+    <string-array name="data_content">
+        <item>A tenacious Barcelona frustrated Real Madrid to secure a 1-0 win over their bitter rivals in an ill-tempered Copa del Rey semi-final first leg at the Bernabeu on Thursday. The visitors defended superbly after Madrid centre-back Eder Militao scored an own goal in the first half, managing to overcome the loss of key players Robert Lewandowski, Pedri and Ousmane Dembele, who all missed the game due to injuries. "We would have liked to have the ball more, to control de game a little more but we fought hard and competed in a high level. They had the ball but didnt create many chances. We got the advantage for the second leg and thats really important," Barcelona captain Sergio Busquets told TVE. Real Madrid started better and dominated the first 15 minutes, but Barcelona started to turn things around as they took control of the midfield and their defensive game plan worked brilliantly. Barca centre back Ronald Araujo did a great job at right-back to neutralise the threat of the dangerous Vinicius Jr. and Karim Benzema was left alone up front.</item>
+        <item>Erik ten Hag lauded Wout Weghorst as "one of the best players on the pitch" in Manchester Uniteds comeback win over West Ham United. United recovered from a goal down to prevail 3-1 with three goals in the last 13 minutes of their FA Cup fifth round tie and set up a home quarter-final with Fulham on March 19. Weghorst had a hand in Nayef Aguerds own goal, his volley deflected into the path of Alejandro Garnacho to curl in the 90th-minute winner and the Dutchman forced an error from Aguerd to allow Fred to secure victory. Fred has credited Manchester Uniteds summer signings with helping to change the mentality in the squad, after another comeback win propelled them into the FA Cup quarter-finals. United were a goal down to West Ham with 13 minutes remaining at Old Trafford, but three late goals continued the bid for a remarkable quadruple, just four days after winning the Carabao Cup at Wembley. The mentality of this squad has been praised this season and Fred has credited Erik ten Hag with bringing belief to the dressing room, as well as the summer signings, especially South Americans Lisandro Martinez, Casemiro and Antony, with engineering a change in mindset.</item>
+        <item>Christian Pulisic appears to be enjoying life at Chelsea once more as he returns to full training with his teammates. The American winger has been out with an injury since the start of January and has had to watch as several younger models joined the ranks. It has left him in a state of flux when it comes to the upcoming months at Stamford Bridge. Before his latest injury the 24-year-old was earning a consistent run in the side but will now be competing against new teammates Mykhailo Mudryk, Joao Felix and Noni Madueke. Nevertheless, with Graham Potters attack misfiring, the return of Pulisic, who can offer something new to the frontline, will be a welcome return. There is already incentive enough for Pulisic to be ready as soon as possible, with a reunion awaiting with Borussia Dortmund. The German side visit SW6 next week for the return leg of the Champions League last 16 with Pulisic hoping his side can overturn the 1-0 deficit. Having spent more than four years with the Bundesliga side it represents the first opportunity to face them as an opposition player.</item>
+        <item>AC Milan star Rafael Leao has responded to reports linking him with a move to Chelsea in the summer transfer window. Leaos current deal at the San Siro is set to expire in 2024 and he is yet to agree a renewal. The Portugal international has been one of the Serie A giants most important players in recent seasons, playing a key role in their title-winning campaign last term. Leao was crowned as Serie A Most Valuable Player and Serie A Football of the Year - scoring 14 goals and providing a further 12 assists in all competitions for Milan. Leaos friendship with James has only heightened rumours of a potential switch from the San Siro to Stamford Bridge this summer. AC Milan are keen to tie Leao down to a new long-term deal, but the Blues are willing to offer him a huge financial package to secure his signature and poach him from the Italian outfit. Leao has admitted he would one day like to play in the Premier League but has now cast doubt over a summer switch to Stamford Bridge. "I don’t like the weather there [in England]," the 23-year-old said in an interview on YouTube, via the Metro.</item>
+        <item>Chelsea have a long history of players joining either Real Madrid or Barcelona. Over the last two decades, Arjen Robben, Ricardo Carvalho, Thibaut Courtois and Eden Hazard have all made the switch to Los Blancos. Meanwhile, Icelandic legend Eidur Gudjohnsen, who won back-to-back Premier League titles under Jose Mourinho, opted for a move to Barcelona. It has actually been far more frequent for players to make the switch from Camp Nou to Stamford Bridge, with Cesc Fabregas, Pedro, Deco and Albert Ferrer all choosing to ply their trade in west London. The question is who will be the next Chelsea player to make the move to Spain. Ahead of tonights El Clasico in the Copa Del Rey, FairBettingSites found Mason Mount and Christian Pulisic to be the most likely candidates to sign for either of the Spanish giants. Both Mount and Pulisic are 25/1 to be the next Premier League player to sign for Real Madrid or Barcelona. This places them the highest of all Chelsea players in this particular market. Favourite to make the switch is Liverpool winger Mohamed Salah, who is priced at 3/1, ahead of Manchester City’s Bernardo Silva at 4/1. Bruno Guimaraes (6/1), Harry Kane (7/1) and Marcus Rashford (10/1) round out the top five.</item>
+        <item>Should Chelsea decide that it is time for a sea-change and that their next manager needs to be a win at all costs type of guy then they know just the man. Serial Champions League-winning coach Zinedine Zidane is on the market. It is said that Zidane is on the shortlist of men that could replace Potter should things not turnaround, so here, football.london has got the latest on the two-time world coach of the year. According to Spanish outlet Sport, Luis Enrique and Zinedine Zidane are both in the running to replace Potter, should the decision be made to part ways. Meanwhile Zidane himself has already spoken about the possibility of coming back into management in the near future. He has been out of a job since 2021. In an interview with Telefoot in June 2022, Zidane confirmed his desire to resume his coaching career. "Am I still able to contribute things as a coach? Yes, many things, or I think at least some!</item>
+        <item>Graham Potter is facing his biggest week in charge of Chelsea after replacing Thomas Tuchel as manager back in September. The 47-year-old head coach is under growing pressure from fans after the Blues poor run of form in recent weeks. According to Spanish outlet Sport, Luis Enrique and Zinedine Zidane are both in the running to replace Potter, should the decision be made to part ways. Meanwhile Zidane himself has already spoken about the possibility of coming back into management in the near future. He has been out of a job since 2021. In an interview with Telefoot in June 2022, Zidane confirmed his desire to resume his coaching career. "Am I still able to contribute things as a coach? Yes, many things, or I think at least some! Meanwhile Zidane himself has already spoken about the possibility of coming back into management in the near future. He has been out of a job since 2021. In an interview with Telefoot in June 2022, Zidane confirmed his desire to resume his coaching career. "Am I still able to contribute things as a coach? Yes, many things, or I think at least some!</item>
+        <item>The more its thought about the more ubsurd it feels. Jose Mourinho is being spoken of as a true candidate to become Chelsea manager in 2023. Its nearly two decades since he first took over the Blues, running to consecutive league titles in the process whilst also setting records - some of which stand to this day. At 60, Mourinho is no longer the young, charming manager with a fresh book of ideas. Thats exactly why some fans want him back. Meanwhile Zidane himself has already spoken about the possibility of coming back into management in the near future. He has been out of a job since 2021. In an interview with Telefoot in June 2022, Zidane confirmed his desire to resume his coaching career. "Am I still able to contribute things as a coach? Yes, many things, or I think at least some!</item>
+        <item>Lewis Hamilton admits Mercedes have a "mountain to climb" after a difficult three days of pre-season testing, while Sky Sports F1s Ted Kravitz believes Aston Martin are faster ahead of next weekends opening race. Mercedes came into the test in Bahrain with the most questions to answer and, while the former Formula 1 world champions solved their bouncing car issues, they still struggled for grip and pace, which was masked by Hamilton posting the second-fastest time behind Sergio Perez on the final day. Meanwhile Zidane himself has already spoken about the possibility of coming back into management in the near future. He has been out of a job since 2021. In an interview with Telefoot in June 2022, Zidane confirmed his desire to resume his coaching career. "Am I still able to contribute things as a coach? Yes, many things, or I think at least some!</item>
+        <item>Gary Neville believes Harry Kane must leave Tottenham this summer if he wants to win silverware and feels the strikers only realistic option among English clubs is Manchester United. Kane has been in outstanding form for his boyhood club this season, scoring 18 times in 25 Premier League appearances and surpassing Jimmy Greaves as the clubs all-time leading goalscorer, but at 29 he is still waiting to lift silverware. Meanwhile Zidane himself has already spoken about the possibility of coming back into management in the near future. He has been out of a job since 2021. In an interview with Telefoot in June 2022, Zidane confirmed his desire to resume his coaching career. "Am I still able to contribute things as a coach? Yes, many things, or I think at least some!</item>
+    </string-array>
+    <string-array name="data_image">
+        <item>news_1</item>
+        <item>news_2</item>
+        <item>news_3</item>
+        <item>news_4</item>
+        <item>news_5</item>
+        <item>news_6</item>
+        <item>news_7</item>
+        <item>news_8</item>
+        <item>news_9</item>
+        <item>news_10</item>
+    </string-array>
+    <string name="title_activity_splash_screen">SplashScreenActivity</string>
+
+    <string name="logo_text">Sport News</string>
+    <string name="by_developer">by Akhmadheta Hafid Prasetyawan</string>
+</resources>
